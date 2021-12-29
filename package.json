@@ -1,0 +1,18 @@
+{
+  "name": "taxer_ua_node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/app.ts"
+  },
+  "keywords": [],
+  "author": "unickq",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "node-xlsx": "^0.20.0",
+    "ts-node": "^10.4.0"
+  }
+}
