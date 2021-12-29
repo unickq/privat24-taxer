@@ -2,6 +2,8 @@
 
 Позволяет ~~втупую~~ загрузить выписки в xls формате в taxer. That's pretty much it 😅.
 
+![taxer](https://raw.githubusercontent.com/unickq/privat24-taxer/master/img/taxer.png)
+
 Умеет заполнять [операции](https://taxer.ua/ru/my/finances/operations):
 - Доход/расход
 - Дата/время транзакции
@@ -44,6 +46,5 @@
 3) В массиве **users** выбрать необходимый счет и сохранить его **id** в  `TAXER_FOP_ID=` в `.env` файл
 
 
-
-### Resources & credits:
-[@maxsivkov](https://github.com/maxsivkov) и его [py-pbank-statements](https://github.com/maxsivkov/py-pbank-statements) и [py-taxer-api](https://github.com/maxsivkov/py-taxer-api), которые я так и смог заставить работать, из-за чего и написал свой 🚲
+### Credits:
+[@maxsivkov](https://github.com/maxsivkov) и его python [py-pbank-statements](https://github.com/maxsivkov/py-pbank-statements) и [py-taxer-api](https://github.com/maxsivkov/py-taxer-api), ~~которые я так и смог заставить работать, из-за чего и написал свой node~ 🚲
