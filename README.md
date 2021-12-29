@@ -47,4 +47,4 @@
 
 
 ### Credits:
-[@maxsivkov](https://github.com/maxsivkov) и его python [py-pbank-statements](https://github.com/maxsivkov/py-pbank-statements) и [py-taxer-api](https://github.com/maxsivkov/py-taxer-api), ~~которые я так и смог заставить работать, из-за чего и написал свой node~ 🚲
+[@maxsivkov](https://github.com/maxsivkov) и его python [py-pbank-statements](https://github.com/maxsivkov/py-pbank-statements) и [py-taxer-api](https://github.com/maxsivkov/py-taxer-api), ~~которые я так и смог заставить работать, из-за чего и написал свой node~~ 🚲
