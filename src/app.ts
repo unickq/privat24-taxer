@@ -41,7 +41,7 @@ const instance = axios.create({
     console.log(`${i} ${data.operation.comment}`);
     const resp = await instance.post(
       "/api/finances/operation/create?lang=ru",
-      data
+      {operations: [data]}
     );
     console.log(resp.statusText);
   }
