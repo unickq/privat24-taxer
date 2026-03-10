@@ -1,3 +1,6 @@
+# Archived
+## https://taxer.ua/uk/kb/synkhronizatsiia-vypysky-z-pryvatbank
+
 # Импорт выписок из Privat24 business в taxer.ua
 
 Позволяет ~~втупую~~ загрузить выписки в xls формате в taxer. That's pretty much it 😅.
